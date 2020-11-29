@@ -13,3 +13,9 @@ Nosso objetivo é criar um modelo de Machine Learning supervisionado que aprende
 O modelo escolhido será o Naive Bayes Gaussiano. 
 
 ## Importar as bibliotecas necessárias
+'''
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+'''
