@@ -10,5 +10,5 @@ São também previamente identificadas espécies do tipo Iris-setosa, Iris-setos
 
 Nosso objetivo é criar um modelo de Machine Learning supervisionado que aprenderá com o conjunto de dados e posteriormente será capaz de classificar uma flor Íris em algumas das espécies mencionadas anteriomente com base nas medidas de de comprimento e larguras de suas sépalas e pétalas.
 
-O modelo escolhido será o Naive Bayes Gaussiano. 
+O modelo escolhido foi o Naive Bayes Gaussiano. 
  
