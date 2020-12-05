@@ -8,7 +8,7 @@ O conjunto de dados é composto por medidas do comprimento e largura (em centím
 
 São também previamente identificadas espécies do tipo Iris-setosa, Iris-setosa, Iris-versicolor e Iris-virginica de acordo com as medidas de comprimento e larguras de suas sépalas e pétalas.
 
-Nosso objetivo é criar um modelo de Machine Learning supervisionado que aprenderá com o conjunto de dados e posteriormente será capaz de classificar uma flor Íris em algumas das espécies mencionadas anteriomente com base nas medidas de de comprimento e larguras de suas sépalas e pétalas.
+Nosso objetivo é criar um modelo de Machine Learning supervisionado que aprenderá com o conjunto de dados e posteriormente será capaz de classificar uma flor Íris em algumas das espécies mencionadas anteriomente com base nas medidas de comprimento e larguras de suas sépalas e pétalas.
 
 O modelo escolhido foi o Naive Bayes Gaussiano. 
  
