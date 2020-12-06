@@ -12,5 +12,5 @@ Nosso objetivo é criar um modelo de Machine Learning supervisionado que aprende
 
 O modelo escolhido foi o Naive Bayes Gaussiano. 
 
-Maiores detalhes sobre o algoritmo Naive Bayes e Naive Bayes Gaussiano você encontra em bit.ly/genesisNB e 
+Maiores detalhes sobre o algoritmo Naive Bayes e Naive Bayes Gaussiano você encontra em  http://bit.ly/genesisNB e 
  
