@@ -2,6 +2,8 @@
 Este notebook implementará o algorítmo Naive Bayes Gaussiano no problema de clasificação de espécies de flores Íris. 
 O conjunto de dados Iris pode ser baixado no repositório da UCI Machine Learning Repository em http://archive.ics.uci.edu/ml/datasets/Iris.
 
+![image](https://user-images.githubusercontent.com/60190660/111921983-3b43b880-8a76-11eb-9cae-04cb37c2dcc6.png)
+
 O conjunto de dados é composto por medidas do comprimento e largura (em centímetros) das sépalas e pétalas de diversas flores iris.
 
 <p align="center"><img src="https://raw.githubusercontent.com/ritchieng/machine-learning-dataschool/master/images/03_iris.png" alt="Iris" ></p>
